@@ -2,6 +2,8 @@
 
 Gin rummy against a bot, where the real opponent is your friend.
 
+**Play:** https://ashpfife.github.io/gin-duel/
+
 You play a game against the bot, then send a link to someone else. They play the **exact same deck** (same deals, same stock order) against the **same bot**. Instead of trying to beat the bot, each of you is trying to do better against it than the other person.
 
 ## How it works
@@ -53,4 +55,4 @@ The tests cover deterministic dealing, meld and lay-off maths, scoring, link enc
 
 ## Hosting
 
-Turn on GitHub Pages (Settings → Pages → deploy from the `main` branch, root folder) and share links from the Pages URL.
+Served by GitHub Pages from the `main` branch (root folder). Any push to `main` redeploys it.

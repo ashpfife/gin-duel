@@ -1,0 +1,12 @@
+{
+  "name": "gin-duel",
+  "version": "1.0.0",
+  "description": "Gin rummy against a bot, then challenge a friend to play the exact same deck.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "npx --yes serve -l 5173 .",
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
